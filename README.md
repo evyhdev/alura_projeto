@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  🔗 <a href="[LINK DO SEU DEPLOY AQUI]">Visualize o Projeto Online</a>
+  🔗 <a href="https://evyhdev.github.io/alura_projeto/">Visualize o Projeto Online</a>
 </p>
 
 <p align="center">

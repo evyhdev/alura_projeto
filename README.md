@@ -59,9 +59,7 @@ Você pode clonar este repositório e abrir a página no seu próprio navegador!
 
 <br>
 
-## 🧑‍💻 Autor
-
-Feito com dedicação por:
+## 💻💖 Autora
 
 * **GitHub:** **[evyhdev]**
 
